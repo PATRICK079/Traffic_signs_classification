@@ -1,6 +1,6 @@
 
 
-# 🛑 German Traffic Sign Classification with Deep Learning
+# 🛑 Traffic Sign Classification with Deep Learning
 
 This project demonstrates the development of a **Convolutional Neural Network (CNN)** to classify traffic signs 
 
