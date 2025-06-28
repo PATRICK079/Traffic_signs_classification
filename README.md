@@ -73,7 +73,6 @@ After hyperparameter tuning and data augmentation, the model classified **all sa
 ## 🧠 Future Improvements
 
 - Experiment with transfer learning (e.g., pretrained ResNet or EfficientNet).
-- Apply k-fold cross-validation.
 - Explore ensemble methods for further accuracy gains.
 - Deploy the model in an interactive web application (e.g., Streamlit).
 
@@ -106,6 +105,11 @@ Feel free to connect with me:
 ## 🤝 Contributions
 
 Contributions and suggestions are welcome! Please open an issue or submit a pull request.
+
+## Data Citation
+
+Meowmeowmeowmeowmeow. (2021). GTSRB - German Traffic Sign Recognition Benchmark. Kaggle. 
+https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 
 ## ⭐️ Star This Repo
