@@ -79,4 +79,12 @@ After hyperparameter tuning and data augmentation, the model classified **all te
 
 Below are the main Python libraries used in this project:
 
+- numpy
+- opencv-python
+- tensorflow
+- matplotlib
+- pandas
+- scikit-learn
+- Pillow
+
 
