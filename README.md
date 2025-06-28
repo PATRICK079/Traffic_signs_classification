@@ -103,7 +103,11 @@ Feel free to connect with me:
 
 [Email](edosomapatrick41@gmail.com)
 
+## 🤝 Contributions
 
-# ⭐️ Star This Repo
+Contributions and suggestions are welcome! Please open an issue or submit a pull request.
+
+
+## ⭐️ Star This Repo
 
 If you found this project helpful, please star ⭐️ it to show support!
