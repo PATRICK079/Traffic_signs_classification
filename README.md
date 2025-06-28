@@ -1,12 +1,12 @@
-# Traffic_signs_classification
 
-https://drive.google.com/file/d/1qDtr3K7kDc0ZxlboeWVXLp4iMi5gujCP/view?usp=sharing
 
 # 🛑 German Traffic Sign Classification with Deep Learning
 
 This project demonstrates the development of a **Convolutional Neural Network (CNN)** to classify traffic signs 
 
 The focus is on building a **robust, reliable model** that can accurately recognize 43 traffic sign classes, supporting safe decision-making in real-world applications such as autonomous vehicles.
+
+GOOGLE COLAB NOTEBOOK: https://drive.google.com/file/d/1qDtr3K7kDc0ZxlboeWVXLp4iMi5gujCP/view?usp=sharing
 
 ---
 
@@ -92,3 +92,18 @@ Below are the main Python libraries used in this project:
 - Pillow
 
 
+## 💼 About Me
+
+I am a data science and machine learning practitioner passionate about building solutions that bridge research and practical deployment.
+I am currently open to remote opportunities in data science, machine learning engineering, and related fields.
+
+Feel free to connect with me:
+
+[Linkedlin](https://www.linkedin.com/in/patrickedosoma/)
+
+[Email](edosomapatrick41@gmail.com)
+
+
+# ⭐️ Star This Repo
+
+If you found this project helpful, please star ⭐️ it to show support!
