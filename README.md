@@ -49,9 +49,13 @@ The focus is on building a **robust, reliable model** that can accurately recogn
 
 ## 📊 Results
 
+Before fine tuning, the model achieved:
+
+- **Validation Accuracy:** ~97%
+- **Test Accuracy:** ~93%
+
 After multiple iterations and fine-tuning, the final model achieved:
 
-- **Training Accuracy:** ~96%
 - **Validation Accuracy:** ~99%
 - **Test Accuracy:** ~96%
 
@@ -61,8 +65,8 @@ This demonstrates strong generalization and suitability for real-world datasets.
 
 ## 🧪 Example Testing Observations
 
-Initially, the model correctly predicted 3 out of 5 test images, highlighting areas for improvement.  
-After hyperparameter tuning and data augmentation, the model classified **all test samples correctly**, showcasing significantly improved robustness.
+Initially, the model correctly predicted 3 out of 5 random traffic images, highlighting areas for improvement.  
+After hyperparameter tuning and data augmentation, the model classified **all samples correctly**, showcasing significantly improved robustness.
 
 ---
 
