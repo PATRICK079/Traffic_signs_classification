@@ -9,7 +9,16 @@ The focus is on building a **robust, reliable model** that can accurately recogn
 GOOGLE COLAB NOTEBOOK: https://drive.google.com/file/d/1qDtr3K7kDc0ZxlboeWVXLp4iMi5gujCP/view?usp=sharing
 
 ---
+  ## Business Statement
 
+To develop a robust, accurate, and efficient traffic sign recognition system that can be integrated into intelligent transportation solutions, enabling safer autonomous driving 
+
+and reducing the risk of accidents caused by misclassification of traffic signs. This project aims to deliver a production-ready model that ensures compliance with traffic 
+
+regulations, improves driver assistance systems, and enhances overall road safety.
+
+
+---
 ## 🎯 Objectives
 
 - Build a high-performance image classification model for traffic signs.
